@@ -1,0 +1,12 @@
+table{
+	border: solid 1px;
+	background-color: black;
+}
+
+button{
+	width: 54px;
+	height: 60px;
+	padding: 10px;
+	background-color: yellow;
+	font-size: 18;
+}
